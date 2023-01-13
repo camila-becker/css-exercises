@@ -1,0 +1,18 @@
+.text {
+  background-color: #ffc0cb;
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#number-two {
+  color: #0000ff;
+  font-size: 32px;
+}
+
+.size {
+  font-size: 24px;
+}
+
+#number-four {
+  background-color: #7ef37e;
+  font-weight: bold;
+}
